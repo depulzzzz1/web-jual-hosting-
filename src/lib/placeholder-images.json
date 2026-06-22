@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-dashboard",
+      "description": "Premium SaaS dashboard preview",
+      "imageUrl": "https://picsum.photos/seed/123/1200/800",
+      "imageHint": "dashboard software"
+    },
+    {
+      "id": "global-map",
+      "description": "Global server network map",
+      "imageUrl": "https://picsum.photos/seed/456/1000/600",
+      "imageHint": "global network"
+    },
+    {
+      "id": "datacenter",
+      "description": "Modern high-tech datacenter",
+      "imageUrl": "https://picsum.photos/seed/789/800/600",
+      "imageHint": "datacenter server"
+    }
+  ]
 }
